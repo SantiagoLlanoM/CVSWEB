@@ -1,7 +1,7 @@
 <%-- 
     Document   : home
     Created on : 27/09/2015, 07:07:45 PM
-    Author     : Victor
+    Author     : Victor, Camilo
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
