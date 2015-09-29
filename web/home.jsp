@@ -60,7 +60,7 @@
                                                       
 						</ul>
 					</nav>
-				</header><div class="ic">More Website Templates  @ TemplateMonster.com - August 1st 2011!</div>
+				</header><div class="ic">More Website Templates  @ TemplateMonster.com - !</div>
 <!-- / header -->
 <!-- content -->
 				<article id="content">
